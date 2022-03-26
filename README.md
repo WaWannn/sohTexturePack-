@@ -26,6 +26,8 @@ Note :
 
 URL Source Texture Pack : https://evilgames.eu/texture-packs/oot-reloaded.htm - 2160p (No need download)
 
+Progress : 175 / 6100 : 2.8% Done
+
 Link's House : done
 
 Kokiri Forest : In progress
