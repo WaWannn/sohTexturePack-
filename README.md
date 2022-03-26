@@ -16,7 +16,7 @@ To Install :
 
 5/ Dowload this .rar
 
-6/ Extract directly zip in the soh folder ()
+6/ Extract directly zip in the soh folder (Extract "here")
 
 7/ Run
 
