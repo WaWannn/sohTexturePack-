@@ -14,7 +14,7 @@ To Install :
 
 4/ Rename ""Special K2.dll"" to "dxgi.dll"
 
-5/ Dowload this zip
+5/ Dowload this .rar
 
 6/ Extract directly zip in the soh folder ()
 
