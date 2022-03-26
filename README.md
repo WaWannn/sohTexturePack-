@@ -19,3 +19,5 @@ To Install :
 6/ Extract directly zip in the soh folder ()
 
 7/ Run
+
+URL For Texture Pack : https://evilgames.eu/texture-packs/oot-reloaded.htm - 2160p
